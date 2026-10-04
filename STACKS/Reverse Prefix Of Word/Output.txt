@@ -1,0 +1,4 @@
+Enter the word: abcdefd
+Enter the character: d
+Original word: abcdefd
+After reversing prefix: dcbaefd
