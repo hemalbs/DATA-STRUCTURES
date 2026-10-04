@@ -1,0 +1,10 @@
+INFIX TO POSTFIX CONVERSION
+===========================
+
+Enter the Infix Expression: (A+B)*(C-D)
+Infix Expression: (A+B)*(C-D)
+Postfix Expression: AB+CD-*
+
+Enter the Infix Expression: (A+B)/(C-D)
+Infix Expression: (A+B)/(C-D)
+Postfix Expression: AB+CD-/
