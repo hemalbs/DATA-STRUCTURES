@@ -1,0 +1,190 @@
+--- STACK OPERATIONS ---
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+Enter your choice: 1
+Enter the element: 10
+
+--- STACK OPERATIONS ---
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+Enter your choice: 1
+Enter the element: 20
+
+--- STACK OPERATIONS ---
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+Enter your choice: 1
+Enter the element: 30
+
+--- STACK OPERATIONS ---
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+Enter your choice: 3
+Stack elements are:
+30
+20
+10
+
+--- STACK OPERATIONS ---
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+Enter your choice: 2
+Deleted element: 30
+
+--- STACK OPERATIONS ---
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+Enter your choice: 3
+Stack elements are:
+20
+10
+
+--- STACK OPERATIONS ---
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+Enter your choice: 2
+Deleted element: 20
+
+--- STACK OPERATIONS ---
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+Enter your choice: 2
+Deleted element: 10
+
+--- STACK OPERATIONS ---
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+Enter your choice: 2
+STACK UNDERFLOW ON POP
+
+--- STACK OPERATIONS ---
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+Enter your choice: 1
+Enter the element: 10
+
+--- STACK OPERATIONS ---
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+Enter your choice: 1
+Enter the element: 20
+
+--- STACK OPERATIONS ---
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+Enter your choice: 1
+Enter the element: 30
+
+--- STACK OPERATIONS ---
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+Enter your choice: 1
+Enter the element: 40
+
+--- STACK OPERATIONS ---
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+Enter your choice: 1
+Enter the element: 50
+
+--- STACK OPERATIONS ---
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+Enter your choice: 1
+Enter the element: 60
+
+--- STACK OPERATIONS ---
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+Enter your choice: 1
+Enter the element: 70
+
+--- STACK OPERATIONS ---
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+Enter your choice: 1
+Enter the element: 80
+
+--- STACK OPERATIONS ---
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+Enter your choice: 1
+Enter the element: 90
+
+--- STACK OPERATIONS ---
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+Enter your choice: 1
+Enter the element: 100
+
+--- STACK OPERATIONS ---
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+Enter your choice: 1
+Enter the element: 110
+STACK OVERFLOW
+
+--- STACK OPERATIONS ---
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+Enter your choice: 3
+Stack elements are:
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+
+--- STACK OPERATIONS ---
+1. PUSH
+2. POP
+3. DISPLAY
+4. EXIT
+Enter your choice: 4
